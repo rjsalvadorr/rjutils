@@ -1,0 +1,39 @@
+body {
+  background-color: #222222;
+  color: #eeeeee;
+  font-family: sans-serif;
+}
+
+.field-guide-wrapper .field-guide-sidenav,
+.field-guide-footer {
+  background-color: #222222;
+}
+
+.field-guide-toc-item-link:hover,
+.active .field-guide-toc-item {
+  background-color: #333333;
+}
+
+.field-guide-toc-item-link:hover {
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a .field-guide-toc-item {
+  color: #eeeeee;
+}
+
+.textlist {
+  border: 1px solid #888888;
+  min-height: 100px;
+  padding: 5px;
+  margin: 5px 0;
+  border-radius: 5px;
+}
+
+.textlist__content {
+  margin: 0;
+}
