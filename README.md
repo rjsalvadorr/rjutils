@@ -1,38 +1,26 @@
-rjutils
-==============================================================================
+# rjutils
 
-[Short description of the addon.]
+Code sketchbook, featuring an assortment of utilities and experiments.  
+Initialized using [empress/field-guide](https://github.com/empress/field-guide)
 
-
-Compatibility
-------------------------------------------------------------------------------
+## Compatibility
 
 * Ember.js v3.12 or above
 * Ember CLI v2.13 or above
 * Node.js v10 or above
 
-
-Installation
-------------------------------------------------------------------------------
+## Installation
 
 ```
 ember install rjutils
 ```
 
+## Usage
 
-Usage
-------------------------------------------------------------------------------
+```
+ember serve
+```
 
-[Longer description of how to use the addon in apps.]
-
-
-Contributing
-------------------------------------------------------------------------------
-
-See the [Contributing](CONTRIBUTING.md) guide for details.
-
-
-License
-------------------------------------------------------------------------------
+## License
 
 This project is licensed under the [MIT License](LICENSE.md).
