@@ -37,3 +37,8 @@ a .field-guide-toc-item {
 .textlist__content {
   margin: 0;
 }
+
+.ember-power-select-dropdown,
+.ember-power-select-trigger {
+  color: #222222;
+}

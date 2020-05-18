@@ -1,1 +1,9 @@
-{{yield}}
+<div class="custom-select">
+  <PowerSelect
+    @searchEnabled={{true}}
+    @options={{this.groupedNumbers}}
+    @selected={{this.number}}
+    @onChange={{fn (mut this.number)}} as |num|>
+    {{num}}
+  </PowerSelect>
+</div>
